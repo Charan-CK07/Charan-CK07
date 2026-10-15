@@ -1,4 +1,14 @@
-## Hi there 👋
+const i Charan Kumar = {
+  title: "Data Analyst Fresher",
+  stack: ["SQL", "MySQL", "Power BI", "Excel", "Python"],
+  launchedProjects: [
+    "Coffee Sales Analysis",
+    "Customer Shopping Behavior Analysis"
+  ],
+  certifications: [],
+  status: "Actively building data analytics projects 📊",
+  openTo: "Data Analyst / Business Analyst roles"
+};
 
 <!--
 **Charan-CK07/Charan-CK07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
