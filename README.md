@@ -51,7 +51,7 @@ Explore customer shopping data to identify purchasing patterns, customer prefere
 | Data Preparation | Excel |
 | Visualization | Power BI |
 
-🔗 **[View Customer Shopping Behavior Repository](https://github.com/Charan-CK07)**
+🔗 **[View Customer-Shopping-Behavior-Analysis Repository](https://github.com/Charan-CK07)**
 
 
 
