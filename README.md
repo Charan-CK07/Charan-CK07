@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=Charan%20Kumar&fontSize=50&fontColor=ffffff&desc=Data%20Analyst&descSize=22&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=Charan%20Kumar&fontSize=50&fontColor=ffffff&desc=Data%20Analyst%20Fresher&descSize=22&descAlignY=65" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B6FD4&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+raw+data+into+business+insights" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B6FD4&center=true&vCenter=true&width=650&lines=Data+Analyst+Fresher;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+raw+data+into+business+insights" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -21,7 +21,7 @@ I'm building my skills in data analytics by working on projects that transform r
 
 ```js
 const charan = {
-  title: "Data Analyst",
+  title: "Data Analyst Fresher",
   stack: ["SQL", "MySQL", "Power BI", "Excel", "Python"],
   launchedProjects: [
     "Coffee Sales Analysis",
