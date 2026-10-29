@@ -1,30 +1,61 @@
-Hi 👋, I'm Charan Kumar U
+# 👋 Hi, I'm Charan Kumar
 
-Aspiring Data Analyst | AI/ML Student
+### 📊  Data Analyst | SQL | Power BI | Excel |<img width="2048" height="388" alt="72e86df7-9874-4f5c-b84a-b8ab0bd65e50" src="https://github.com/user-attachments/assets/131155b5-73e1-4038-b8c8-0895737f2676" />
+ Python
 
-📊 Passionate about turning raw data into meaningful insights through data analysis and visualization.
+I'm building my skills in data analytics by working on projects that transform raw data into meaningful business insights.
 
-🎓 B.E. in Artificial Intelligence & Machine Learning
+## 🛠️ Technical Skills
 
-🌱 Currently learning Data Analytics, SQL, Excel, and Power BI
+- **Languages:** SQL, Python
+- **Data Analysis:** Excel, Pandas
+- **Visualization:** Power BI
+- **Database:** MySQL
+- **Tools:** Git, GitHub
 
-📈 Building end-to-end data analytics projects
+---
 
-💡 Interested in data visualization, business intelligence, and solving real-world problems
+# 🚀 Featured Projects
 
-📫 Connect with me on LinkedIn
+## ☕ Coffee Sales Analysis
 
-<!--
-**Charan-CK07/Charan-CK07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analyzed coffee sales data using SQL and Power BI to explore sales performance, customer ordering patterns, product popularity, and revenue trends.
 
-Here are some ideas to get you started:
+<img width="2048" height="373" alt="72e86df7-9874-4f5c-b84a-b8ab0bd65e50" src="https://github.com/user-attachments/assets/cee8c28c-c476-4bcf-acd8-a9010dd36d06" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+| Layer | Technology |
+|---|---|
+| Database | MySQL |
+| Query & Analysis | SQL |
+| Visualization | Power BI |
+| Dataset | Coffee Sales |
+
+🔗 **[View Coffee Sales Analysis Repository](https://github.com/Charan-CK07/Coffee-Sales-Analysis)**
+
+---
+
+## 🛍️ Customer Shopping Behavior Analysis
+
+Explore customer shopping data to identify purchasing patterns, customer preferences, and business insights using Python, MySQL, Excel, and Power BI, where applicable to the project files.
+
+![Uploading 72e86df7-9874-4f5c-b84a-b8ab0bd65e50.png…]()
+
+
+| Layer | Technology |
+|---|---|
+| Data Processing | Python |
+| Database | MySQL |
+| Data Preparation | Excel |
+| Visualization | Power BI |
+
+🔗 **[View Customer Shopping Behavior Repository](https://github.com/Charan-CK07)**
+
+
+
+## 🤝 Connect With Me
+
+- **GitHub:** [Charan-CK07](https://github.com/Charan-CK07)
+- **LinkedIn:** Add your LinkedIn profile URL here
+
+
