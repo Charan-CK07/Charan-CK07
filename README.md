@@ -41,7 +41,7 @@ Explore customer shopping data to identify purchasing patterns, customer prefere
 
 <img width="2048" height="373" alt="72e86df7-9874-4f5c-b84a-b8ab0bd65e50" src="https://github.com/user-attachments/assets/cee8c28c-c476-4bcf-acd8-a9010dd36d06" />
 
-![Uploading 72e86df7-9874-4f5c-b84a-b8ab0bd65e50.png…]()
+
 
 
 | Layer | Technology |
@@ -58,6 +58,6 @@ Explore customer shopping data to identify purchasing patterns, customer prefere
 ## 🤝 Connect With Me
 
 - **GitHub:** [Charan-CK07](https://github.com/Charan-CK07)
-- **LinkedIn:** Add your LinkedIn profile URL here
+- **LinkedIn:** https://www.linkedin.com/in/charan-kumar-data-analyst
 
 
