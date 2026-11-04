@@ -37,7 +37,7 @@ const charan = {
 
 ### pizza Sales Analysis
 
-Analyzed coffee sales data using SQL and Power BI to explore sales performance, customer ordering patterns, product popularity, and revenue trends.
+Analyzed pizza sales data using SQL and Power BI to explore sales performance, customer ordering patterns, product popularity, and revenue trends.
 
 <img width="1792" height="592" alt="Gemini_Generated_Image_h1bxwth1bxwth1bx" src="https://github.com/user-attachments/assets/5b71ca22-fdfc-4d76-9b8f-c89a28491e1f" />
 
