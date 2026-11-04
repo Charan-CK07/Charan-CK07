@@ -35,20 +35,21 @@ const charan = {
 
 ## 🚀 Featured Projects
 
-### ☕ Coffee Sales Analysis
+### pizza Sales Analysis
 
 Analyzed coffee sales data using SQL and Power BI to explore sales performance, customer ordering patterns, product popularity, and revenue trends.
 
-<img width="100%" alt="Coffee Sales Analysis" src="https://github.com/user-attachments/assets/131155b5-73e1-4038-b8c8-0895737f2676" />
+<img width="1792" height="592" alt="Gemini_Generated_Image_h1bxwth1bxwth1bx" src="https://github.com/user-attachments/assets/5b71ca22-fdfc-4d76-9b8f-c89a28491e1f" />
+
 
 | Layer | Technology |
 |-------|------------|
 | Database | MySQL |
 | Query & Analysis | SQL |
 | Visualization | Power BI |
-| Dataset | Coffee Sales |
+| Dataset | pizza Sales |
 
-🔗 **[View Coffee Sales Analysis Repository](https://github.com/Charan-CK07/Coffee-Sales-Analysis)**
+🔗 **[View pizza Sales Analysis Repository](https://github.com/Charan-CK07/pizza-Sales-Analysis)**
 
 ---
 
